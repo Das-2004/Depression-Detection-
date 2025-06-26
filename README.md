@@ -94,7 +94,11 @@ Prediction: Depressed
 * Deployment as a web/mobile application
 
 ---
-
+## Contributors
+ - Soumya Ghosh
+ - Anish Banerjee
+ - Tanvir Hossein
+---
 ## 👨‍💻 Authors
 
 * **Priyangshu Das**,**Anish Banerjee**,**Tanvir Hossain**,**Soumya Ghosh**
