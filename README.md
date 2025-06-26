@@ -98,7 +98,7 @@ Prediction: Depressed
 ## 👨‍💻 Authors
 
 * **Priyangshu Das**,**Anish Banerjee**,**Tanvir Hossain**,**Soumya Ghosh**
-* B.Tech CSE Student, Meghnad Saha Institute of Technology
+* B.Tech Information Technology Student, Meghnad Saha Institute of Technology
 
 ---
 
