@@ -95,6 +95,7 @@ Prediction: Depressed
 
 ---
 ## Contributors
+ - Priyanshu Das
  - Soumya Ghosh
  - Anish Banerjee
  - Tanvir Hossein
